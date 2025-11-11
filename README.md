@@ -3,9 +3,6 @@
 **SmartTemp** is an experimental engine that lets **Large Language Models (LLMs)** *self-adjust their temperature dynamically* based on the intent and semantics of the prompt.  
 Instead of manually tuning creativity, SmartTemp interprets the prompt context, estimates confidence, and adapts temperature intelligently — blending *precision* and *imagination* on its own.  
 
-![SmartTemp Portal Screenshot](f233e2ca-e98c-459f-9480-c775483c09e6.png)  
-> *The SmartTemp interface dynamically adjusts temperature and confidence based on prompt intent, visualizing how the model self-regulates its creativity.*
-
 ---
 
 ## 🔍 Why SmartTemp?
@@ -90,9 +87,6 @@ Copy code
 | “Write a story about a robot in love.” | creative | 0.90 | 0.9 | Vivid, expressive storytelling |
 | “Explain quantum computing in simple terms.” | analytical | 0.70 | 0.5 | Balanced technical clarity |
 
-![SmartTemp Analysis Screenshot](701024ed-3d80-43c3-af19-cb0af4f143af.png)  
-> *Temperature and confidence plots show SmartTemp’s real-time calibration as it categorizes prompts into creative, factual, or analytical types.*
-
 ---
 
 ## 🚀 Quick Setup
@@ -127,8 +121,9 @@ Response: Imagine you drop your toy—it falls because the Earth is giving it a 
 🧩 Integrate with LangChain / LangGraph for dynamic reasoning chains
 
 ☁️ Deploy as an API layer for existing chat or agent systems
+---
+## Author
 
-**# Author**
 Suhruth Krishna Yalamanchili
 Data Scientist | AI Engineer | Writer
 Exploring intersections of cognitive science and computational intelligence.
