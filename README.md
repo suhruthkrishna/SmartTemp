@@ -124,11 +124,9 @@ Response: Imagine you drop your toy—it falls because the Earth is giving it a 
 
 ---
 
-##  Author  
-
-**Suhruth Krishna Yalamanchili**  
-**Data Scientist | AI Engineer | Writer**  
-*Exploring intersections of cognitive science and computational intelligence.*
+-Suhruth Krishna Yalamanchili
+Data Scientist | AI Engineer | Writer
+Exploring intersections of cognitive science and computational intelligence.
 
 
 
