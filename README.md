@@ -121,11 +121,14 @@ Response: Imagine you drop your toy—it falls because the Earth is giving it a 
 🧩 Integrate with LangChain / LangGraph for dynamic reasoning chains
 
 ☁️ Deploy as an API layer for existing chat or agent systems
----
-## Author
 
-Suhruth Krishna Yalamanchili
-Data Scientist | AI Engineer | Writer
-Exploring intersections of cognitive science and computational intelligence.
+---
+
+##  Author  
+
+**Suhruth Krishna Yalamanchili**  
+**Data Scientist | AI Engineer | Writer**  
+*Exploring intersections of cognitive science and computational intelligence.*
+
 
 
